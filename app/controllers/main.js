@@ -69,4 +69,8 @@ $(document).ready(function () {
         nguoiDungService.layDSNguoiDung();
     }
 
+    function testBranch(){
+        
+    }
+
 })
